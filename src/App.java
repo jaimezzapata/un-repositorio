@@ -11,6 +11,7 @@ public class App {
         } else {
             System.out.println("Usted aún no es mayor de edad");
         }
+        System.out.println("Bai grupo");
         sc.close();
     }
 }
